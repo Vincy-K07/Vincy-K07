@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" width="1280" height="540" role="img" aria-labelledby="title desc">
-<title id="title">Princy Venila — Data Analytics and Applied Machine Learning</title><desc id="desc">Animated dark developer banner with cycling data roles, chart visualization and a pink-haired anime character waving hello.</desc>
+<title id="title">Vincy Priyanka — Data Analytics and Applied Machine Learning</title><desc id="desc">Animated dark developer banner with cycling data roles, chart visualization and a pink-haired anime character waving hello.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101426"/><stop offset=".55" stop-color="#0d0e16"/><stop offset="1" stop-color="#171026"/></linearGradient>
  <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".52" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
@@ -32,7 +32,7 @@
 </g>
 <g class="fade d1">
  <text x="80" y="150" fill="#aab2cb" font-size="23">Hi there, I’m</text>
- <text x="76" y="216" fill="#eceef6" font-size="53" font-weight="800" letter-spacing="-1.2">Princy Venila</text>
+ <text x="76" y="216" fill="#eceef6" font-size="53" font-weight="800" letter-spacing="-1.2">Vincy Priyanka</text>
  <text x="79" y="274" fill="url(#aurora)" font-size="26" font-weight="800" filter="url(#glow)">Turning data into clear insights.</text>
  <rect x="79" y="301" width="8" height="34" rx="4" fill="#22d3ee"/>
  <g class="role"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Data Analytics Explorer</text></g>
