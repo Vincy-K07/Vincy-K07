@@ -6,7 +6,7 @@
   <h1>✦ Hey there, I'm Vincy! ✦</h1>
   <h3>Creative Thinker • Aspiring Developer • Lifelong Learner</h3>
 
-  <img src="YOUR_IMAGE_LINK_HERE"
+  <img src="Vincy-photo.jpg"
        alt="Vincy's profile photo"
        width="180"
        style="border-radius: 50%;" />
