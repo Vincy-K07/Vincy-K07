@@ -21,17 +21,17 @@
     <img src="https://img.shields.io/badge/GitHub-Pheonix486-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Pheonix486&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Vincy-K07&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 <div align="center">
 
-<table><tr><td width="27%" align="center" valign="middle"><img src="./princy-photo.jpg?v=2" width="220" alt="Princy Venila — profile portrait"/><br/><strong>Princy Venila</strong><br/>Data Analytics · Applied ML</td><td width="73%" valign="middle"><img src="./hero.svg?v=3" alt="Animated data analytics portfolio hero" width="100%"/></td></tr></table>
+<table><tr><td width="27%" align="center" valign="middle"><img src="Vincy-photo.jpg" width="220" alt="Vincy Priyanka — profile portrait"/><br/><strong>Vincy Priyanka</strong><br/>Data Analytics · Applied ML</td><td width="73%" valign="middle"><img src="./hero.svg?v=3" alt="Animated data analytics portfolio hero" width="100%"/></td></tr></table>
 
 <br/><br/>
 
-<img src="./about-life.svg?v=3" alt="About Princy's work and data interests" width="100%"/>
+<img src="./about-life.svg?v=3" alt="About Vincy's work and data interests" width="100%"/>
 
 <br/><br/>
 
@@ -68,12 +68,12 @@
 
 <img src="./connect.svg?v=3" alt="Let's connect" width="100%"/>
 
-<a href="https://github.com/princyvenila"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-a78bfa?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub profile"/></a>
-<a href="https://github.com/princyvenila?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20projects-f472b6?style=for-the-badge&logo=github&logoColor=0d0e16" alt="Repositories"/></a>
+<a href="https://github.com/Vincy-K07"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-a78bfa?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub profile"/></a>
+<a href="https://github.com/Vincy-K07?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20projects-f472b6?style=for-the-badge&logo=github&logoColor=0d0e16" alt="Repositories"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=princyvenila&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Vincy-K07&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/>
 
@@ -131,17 +131,17 @@ Replace each placeholder link with your real repository URL. -->
 <div align="center">
 
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Pheonix486&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=C084FC"
+       src="https://github-readme-stats.vercel.app/api?username=Vincy-K07&show_icons=true&theme=tokyonight&hide_border=true&title_color=C084FC&icon_color=C084FC"
        alt="GitHub statistics"/>
 
   <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pheonix486&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincy-K07&layout=compact&theme=tokyonight&hide_border=true&title_color=C084FC"
        alt="Most-used languages"/>
 
   <br/>
 
   <img width="95%"
-       src="https://streak-stats.demolab.com?user=Pheonix486&theme=tokyonight&hide_border=true&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"
+       src="https://streak-stats.demolab.com?user=Vincy-K07&theme=tokyonight&hide_border=true&ring=C084FC&fire=C084FC&currStreakLabel=C084FC"
        alt="GitHub contribution streak"/>
 
 </div>
@@ -152,7 +152,7 @@ Replace each placeholder link with your real repository URL. -->
 
 <div align="center">
 
-  <a href="https://github.com/Pheonix486">
+  <a href="https://github.com/Vincy-K07">
     <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
