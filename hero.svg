@@ -31,15 +31,17 @@
  <text x="113" y="77" fill="#b9f6ff" font-size="12" font-weight="700" letter-spacing="1.5">DATA · CURIOSITY · INSIGHT</text>
 </g>
 <g class="fade d1">
- <text x="80" y="150" fill="#aab2cb" font-size="23">Hi there, I’m</text>
+ <text x="80" y="150" fill="#aab2cb" font-size="23">✦ Hey there, I’m ✦</text>
  <text x="76" y="216" fill="#eceef6" font-size="53" font-weight="800" letter-spacing="-1.2">Vincy Priyanka</text>
  <text x="79" y="274" fill="url(#aurora)" font-size="26" font-weight="800" filter="url(#glow)">Turning data into clear insights.</text>
  <rect x="79" y="301" width="8" height="34" rx="4" fill="#22d3ee"/>
  <g class="role"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Data Analytics Explorer</text></g>
- <g class="role r2"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Business Insights Builder</text></g>
+ <g class="role r2"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Creative Thinker</text></g>
  <g class="role r3"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Applied ML Learner</text></g>
+ <g class="role r3"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Aspiring Developer</text></g>
+ <g class="role r3"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Lifelong Learner</text></g>
  <text x="79" y="371" fill="#aab2cb" font-size="17">Exploring customer patterns, business trends</text>
- <text x="79" y="395" fill="#aab2cb" font-size="17">and machine-learning approaches to risk.</text>
+ <text x="79" y="395" fill="#aab2cb" font-size="17">and machine-learning approaches to risk.</text> 
 </g>
 <g class="fade d2">
  <rect x="643" y="100" width="302" height="224" rx="18" fill="#111a2a" stroke="url(#aurora)" stroke-opacity=".7"/>
