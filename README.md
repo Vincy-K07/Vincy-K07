@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="image"
+  <img src="dd4769966a53fbd0b8d8f78d7633363f.jpg"
        alt="Vincy's profile photo"
        width="180"
        style="border-radius: 50%;" />
