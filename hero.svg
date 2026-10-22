@@ -37,9 +37,7 @@
  <rect x="79" y="301" width="8" height="34" rx="4" fill="#22d3ee"/>
  <g class="role"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Data Analytics Explorer</text></g>
  <g class="role r2"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Creative Thinker</text></g>
- <g class="role r3"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Applied ML Learner</text></g>
  <g class="role r3"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Aspiring Developer</text></g>
- <g class="role r3"><text x="105" y="325" fill="#eceef6" font-size="23" font-weight="700">Lifelong Learner</text></g>
  <text x="79" y="371" fill="#aab2cb" font-size="17">Exploring customer patterns, business trends</text>
  <text x="79" y="395" fill="#aab2cb" font-size="17">and machine-learning approaches to risk.</text> 
 </g>
