@@ -3,10 +3,7 @@
 
 <div align="center">
 
-  <h1>✦ Hey there, I'm Vincy! ✦</h1>
-  <h3>Creative Thinker • Aspiring Developer • Lifelong Learner</h3>
-
-  <img src="Vincy-photo.jpg"
+  <img src="image"
        alt="Vincy's profile photo"
        width="180"
        style="border-radius: 50%;" />
