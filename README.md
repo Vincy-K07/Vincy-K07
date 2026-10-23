@@ -15,7 +15,7 @@
   <br/>
 
   <a href="https://github.com/Vincy-K07">
-    <img src="https://img.shields.io/badge/GitHub-Pheonix486-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Vincy-K07-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=Vincy-K07&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" alt="Profile views"/>
