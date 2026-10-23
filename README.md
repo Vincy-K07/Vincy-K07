@@ -14,7 +14,7 @@
 
   <br/>
 
-  <a href="https://github.com/Pheonix486">
+  <a href="https://github.com/Vincy-K07">
     <img src="https://img.shields.io/badge/GitHub-Pheonix486-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
 
