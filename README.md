@@ -14,17 +14,8 @@
 
   <br/>
 
-  <a href="https://github.com/Vincy-K07">
-    <img src="https://img.shields.io/badge/GitHub-Vincy-K07-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Vincy-K07&style=for-the-badge&color=C084FC&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
-<div align="center">
-
-<table><tr><td width="27%" align="center" valign="middle"><img src="Vincy-photo.jpg" width="220" alt="Vincy Priyanka — profile portrait"/><br/><strong>Vincy Priyanka</strong><br/>Data Analytics · Applied ML</td><td width="73%" valign="middle"><img src="./hero.svg?v=3" alt="Animated data analytics portfolio hero" width="100%"/></td></tr></table>
+ 
+<table><tr><td width="27%" align="center" valign="middle"><img src="Vincy-photo.jpg" width="220" alt="Vincy Priyanka — profile portrait"/><br/><strong>Vincy Priyanka</strong><br/>Data Analytics · Creative Design</td><td width="73%" valign="middle"><img src="./hero.svg?v=3" alt="Animated data analytics portfolio hero" width="100%"/></td></tr></table>
 
 <br/><br/>
 
